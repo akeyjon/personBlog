@@ -1,4 +1,0 @@
-## 服务端口及访问项目名配置
-server:
-   port: 9001
-   context-path: /blog
